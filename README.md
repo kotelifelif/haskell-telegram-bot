@@ -1,1 +1,1 @@
-# haskell-telegram-bot
+# echo-bot
